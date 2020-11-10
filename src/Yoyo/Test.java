@@ -7,4 +7,5 @@ package Yoyo;
  */
 public class Test {
     String  id;
+    String name;
 }
